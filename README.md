@@ -20,7 +20,7 @@ A console-based word guessing game where the player has to guess the correct wor
 
 ## ✅ Task 2: To-Do List App (GUI)
 
-**File Name:** `todo_app.py`  
+**File Name:** `todo_list.py`  
 **Data File:** `tasks.txt` (auto-created)
 
 A simple task management app using Tkinter. Users can add, delete, clear, and save tasks in a clean interface.
