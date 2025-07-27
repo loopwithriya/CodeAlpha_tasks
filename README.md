@@ -1,19 +1,37 @@
-# Hangman Game 🎮
+# 🌟 CodeAlpha Internship Tasks – Riya Singh
 
-This is a text-based Hangman game developed in Python as part of the CodeAlpha Internship Program.
+This repository contains my completed tasks for the CodeAlpha Internship. Each task shows a different use of Python – from text games to GUI apps.
 
-## Features:
+
+ 
+## 🕹 Task 1: Hangman Game
+
+**File Name:** `hangman_game.py`
+
+A console-based word guessing game where the player has to guess the correct word letter-by-letter.
+
+### 🔸 Features:
 - Fixed list of 5 words
 - 6 incorrect guess limit
 - Real-time feedback
-- Console input/output only
+- Text input/output
 
-## Technologies Used:
-- Python (basic syntax, loops, if-else, strings, random)
 
-## How to Run:
-1. Make sure Python is installed.
-2. Run the file: `python hangman_game.py`
 
-## Author:
-Riya Singh
+## ✅ Task 2: To-Do List App (GUI)
+
+**File Name:** `todo_app.py`  
+**Data File:** `tasks.txt` (auto-created)
+
+A simple task management app using Tkinter. Users can add, delete, clear, and save tasks in a clean interface.
+
+### 🔸 Features:
+- Add/remove/clear tasks
+- Save/load tasks from file
+- Listbox for task display
+- Colorful buttons and emojis
+
+
+
+## 📂 Project Structure
+
